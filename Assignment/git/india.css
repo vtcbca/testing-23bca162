@@ -1,0 +1,25 @@
+@import "2.css";
+body
+{
+	background-image:linear-gradient(#6699ff,#99ccff,#ccccff);
+}
+.c1
+{
+		background-color:orange;
+}
+.c2
+{
+		background-color:white;
+}
+.c3
+{
+		background-color:green;
+}
+h1
+{
+	color:red;
+}
+h3
+{
+	color:#ff6666;
+}
